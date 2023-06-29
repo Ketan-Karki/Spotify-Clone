@@ -2,7 +2,7 @@
 
 ## Preview:
 
-[https://ketankarki.github.io/Sample-Game-Site-DieFames/](https://ketankarki.github.io/Sample-Game-Site-DieFames/)
+[https://ketankarki.github.io/Spotify-Clone/](https://ketankarki.github.io/Spotify-Clone/)
 
 This is a spotify clone made using HTML, CSS and JavaScript
 
